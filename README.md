@@ -25,7 +25,7 @@ source env/bin/activate
 
 #Install Django Dependencies:
 
-cd Library_Manage
+cd blog_project
 pip install django
 pip install pillow
 #Initialization
