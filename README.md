@@ -11,7 +11,7 @@ cd My_Directory
 
 #Clone Repository:
 
-git clone https://github.com/Satish1097/HackerKernel.git
+git clone https://github.com/Satish1097/Blog_App.git
 
 #Create and Activate a Virtual Environment:
 
